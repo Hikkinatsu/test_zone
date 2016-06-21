@@ -1,0 +1,53 @@
+body {
+    background: url(images/WARSONGS_WIDE.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.square {
+    background: url(images/square1.png);
+    height: 85px;
+    width: 85px;
+    float: left;
+    margin-top: 15px;
+}
+
+#square1 {
+    bottom: 770px;
+    left: 19px;
+    right: 1600px;
+    top: 22px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#square2 {
+    bottom: 770px;
+    left: 119px;
+    right: 1500px;
+    top: 22px;
+    margin-right: 15px;
+}
+
+#square3 {
+    bottom: 770px;
+    left: 220px;
+    right: 1399px;
+    top: 22px;
+}
+
+.hein {
+    background: url(images/hein1.png);
+    height: 25px;
+    width: 16px;
+    background-size: cover;
+    left: 54px;
+    right: 1634px;
+    top: 52px;
+    bottom: 800px;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+
+
